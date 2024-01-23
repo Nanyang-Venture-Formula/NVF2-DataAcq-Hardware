@@ -1,0 +1,12 @@
+[submodule "PCB/Dashboard/NVF2-Dashboard-Indicators"]
+	path = PCB/Dashboard/NVF2-Dashboard-Indicators
+	url = git@github.com:Nanyang-Venture-Formula/NVF2-Dashboard-Indicators.git
+[submodule "PCB/Dashboard/NVF2-Dashboard-NumberIndicators"]
+	path = PCB/Dashboard/NVF2-Dashboard-NumberIndicators
+	url = git@github.com:Nanyang-Venture-Formula/NVF2-Dashboard-NumberIndicators.git
+[submodule "PCB/Dashboard/NVF2-Dashboard-Tachy"]
+	path = PCB/Dashboard/NVF2-Dashboard-Tachy
+	url = git@github.com:Nanyang-Venture-Formula/NVF2-Dashboard-Tachy.git
+[submodule "PCB/Dashboard/NVF2-Dashboard-Controller"]
+	path = PCB/Dashboard/NVF2-Dashboard-Controller
+	url = git@github.com:Nanyang-Venture-Formula/NVF2-Dashboard-Controller.git
