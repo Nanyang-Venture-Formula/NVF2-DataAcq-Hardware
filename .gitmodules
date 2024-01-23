@@ -10,3 +10,9 @@
 [submodule "PCB/Dashboard/NVF2-Dashboard-Controller"]
 	path = PCB/Dashboard/NVF2-Dashboard-Controller
 	url = git@github.com:Nanyang-Venture-Formula/NVF2-Dashboard-Controller.git
+[submodule "PCB/Brains/Bigger-Brain"]
+	path = PCB/Brains/Bigger-Brain
+	url = git@github.com:Nanyang-Venture-Formula/Bigger-Brain.git
+[submodule "PCB/NVF-Kicad-Resources"]
+	path = PCB/NVF-Kicad-Resources
+	url = git@github.com:Nanyang-Venture-Formula/NVF-Kicad-Resources.git
