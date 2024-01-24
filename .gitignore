@@ -3,6 +3,8 @@
 fp-info-cache
 *.lck
 
+.DS_Store
+
 # Prerequisites
 *.d
 
