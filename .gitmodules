@@ -16,3 +16,6 @@
 [submodule "PCB/NVF-Kicad-Resources"]
 	path = PCB/NVF-Kicad-Resources
 	url = git@github.com:Nanyang-Venture-Formula/NVF-Kicad-Resources.git
+[submodule "PCB/Pedal/NVF2-Pedal-Sensor"]
+	path = PCB/Pedal/NVF2-Pedal-Sensor
+	url = git@github.com:Nanyang-Venture-Formula/NVF2-Pedal-Sensor.git
