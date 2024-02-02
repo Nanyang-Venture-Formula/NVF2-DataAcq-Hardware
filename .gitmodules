@@ -19,3 +19,6 @@
 [submodule "PCB/Pedal/NVF2-Pedal-Sensor"]
 	path = PCB/Pedal/NVF2-Pedal-Sensor
 	url = git@github.com:Nanyang-Venture-Formula/NVF2-Pedal-Sensor.git
+[submodule "PCB/VCM/Can-Power-Distribution"]
+	path = PCB/VCM/Can-Power-Distribution
+	url = git@github.com:Nanyang-Venture-Formula/Can-Power-Distribution.git
