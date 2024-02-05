@@ -16,9 +16,9 @@
 [submodule "PCB/NVF-Kicad-Resources"]
 	path = PCB/NVF-Kicad-Resources
 	url = git@github.com:Nanyang-Venture-Formula/NVF-Kicad-Resources.git
-[submodule "PCB/Pedal/NVF2-Pedal-Sensor"]
-	path = PCB/Pedal/NVF2-Pedal-Sensor
-	url = git@github.com:Nanyang-Venture-Formula/NVF2-Pedal-Sensor.git
 [submodule "PCB/VCM/Can-Power-Distribution"]
 	path = PCB/VCM/Can-Power-Distribution
 	url = git@github.com:Nanyang-Venture-Formula/Can-Power-Distribution.git
+[submodule "PCB/Brains/Small-General"]
+	path = PCB/Brains/Small-General
+	url = git@github.com:Nanyang-Venture-Formula/Small-General.git
