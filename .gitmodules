@@ -1,9 +1,6 @@
 [submodule "PCB/Dashboard/NVF2-Dashboard-Indicators"]
 	path = PCB/Dashboard/NVF2-Dashboard-Indicators
 	url = git@github.com:Nanyang-Venture-Formula/NVF2-Dashboard-Indicators.git
-[submodule "PCB/Dashboard/NVF2-Dashboard-NumberIndicators"]
-	path = PCB/Dashboard/NVF2-Dashboard-NumberIndicators
-	url = git@github.com:Nanyang-Venture-Formula/NVF2-Dashboard-NumberIndicators.git
 [submodule "PCB/Dashboard/NVF2-Dashboard-Tachy"]
 	path = PCB/Dashboard/NVF2-Dashboard-Tachy
 	url = git@github.com:Nanyang-Venture-Formula/NVF2-Dashboard-Tachy.git
@@ -16,9 +13,9 @@
 [submodule "PCB/NVF-Kicad-Resources"]
 	path = PCB/NVF-Kicad-Resources
 	url = git@github.com:Nanyang-Venture-Formula/NVF-Kicad-Resources.git
-[submodule "PCB/VCM/Can-Power-Distribution"]
-	path = PCB/VCM/Can-Power-Distribution
-	url = git@github.com:Nanyang-Venture-Formula/Can-Power-Distribution.git
 [submodule "PCB/Brains/Small-General"]
 	path = PCB/Brains/Small-General
 	url = git@github.com:Nanyang-Venture-Formula/Small-General.git
+[submodule "Packaging/NVF2-Packaging-Throttle"]
+	path = Packaging/NVF2-Packaging-Throttle
+	url = git@github.com:Nanyang-Venture-Formula/NVF2-Packaging-Throttle.git
