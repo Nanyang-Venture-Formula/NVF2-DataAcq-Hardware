@@ -1,21 +1,30 @@
-[submodule "PCB/Dashboard/NVF2-Dashboard-Indicators"]
-	path = PCB/Dashboard/NVF2-Dashboard-Indicators
-	url = git@github.com:Nanyang-Venture-Formula/NVF2-Dashboard-Indicators.git
-[submodule "PCB/Dashboard/NVF2-Dashboard-Tachy"]
-	path = PCB/Dashboard/NVF2-Dashboard-Tachy
-	url = git@github.com:Nanyang-Venture-Formula/NVF2-Dashboard-Tachy.git
-[submodule "PCB/Dashboard/NVF2-Dashboard-Controller"]
-	path = PCB/Dashboard/NVF2-Dashboard-Controller
-	url = git@github.com:Nanyang-Venture-Formula/NVF2-Dashboard-Controller.git
 [submodule "PCB/Brains/Bigger-Brain"]
 	path = PCB/Brains/Bigger-Brain
 	url = git@github.com:Nanyang-Venture-Formula/Bigger-Brain.git
+
 [submodule "PCB/NVF-Kicad-Resources"]
 	path = PCB/NVF-Kicad-Resources
 	url = git@github.com:Nanyang-Venture-Formula/NVF-Kicad-Resources.git
+
 [submodule "PCB/Brains/Small-General"]
 	path = PCB/Brains/Small-General
 	url = git@github.com:Nanyang-Venture-Formula/Small-General.git
+
 [submodule "Packaging/NVF2-Packaging-Throttle"]
 	path = Packaging/NVF2-Packaging-Throttle
 	url = git@github.com:Nanyang-Venture-Formula/NVF2-Packaging-Throttle.git
+
+[submodule "Packaging/NVF2-Packaging-Dashboard"]
+	path = Packaging/NVF2-Packaging-Dashboard
+	url = git@github.com:Nanyang-Venture-Formula/NVF2-Packaging-Dashboard.git
+
+[submodule "Packaging/NVF2-Brief-DataAcq-TS"]
+	path = Packaging/NVF2-Brief-DataAcq-TS
+	url = git@github.com:Nanyang-Venture-Formula/NVF2-Brief-DataAcq-TS.git
+	
+[submodule "PCB/SCS/SCS-Checker"]
+	path = PCB/SCS/SCS-Checker
+	url = git@github.com:Nanyang-Venture-Formula/SCS-Checker.git
+[submodule "Packaging/NVF2-Packaging-LVBox"]
+	path = Packaging/NVF2-Packaging-LVBox
+	url = git@github.com:Nanyang-Venture-Formula/NVF2-Packaging-LVBox.git
